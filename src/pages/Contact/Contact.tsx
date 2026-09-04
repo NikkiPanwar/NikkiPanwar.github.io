@@ -43,8 +43,8 @@ function Contact() {
                 </div>
                 <div className="contact-card-text">
                   <span className="contact-card-label">Email</span>
-                  <a href="mailto:nikitapanwar11@gmail.com" className="contact-card-value">
-                    nikitapanwar11@gmail.com
+                  <a href="mailto:nikitapanwar.work@gmail.com" className="contact-card-value">
+                    nikitapanwar.work@gmail.com
                   </a>
                 </div>
               </div>

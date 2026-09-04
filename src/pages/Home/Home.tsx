@@ -107,13 +107,13 @@ function Home() {
             <SkillCard
               title="Frontend Development"
               description="Building responsive, component-driven single page applications."
-              skills={["Angular", "TypeScript", "JavaScript", "RxJS", "HTML5", "CSS3", "Bootstrap"]}
+              skills={["Angular", "React", "TypeScript", "JavaScript", "RxJS", "HTML5", "CSS3", "Bootstrap"]}
             />
 
             <SkillCard
               title="Backend & APIs"
               description="Connecting frontends with secure and efficient REST APIs."
-              skills={["Python", "FastAPI", "Node.js", "Express.js", "Laravel", "REST APIs", "JWT Auth"]}
+              skills={["Python", "FastAPI", "Node.js", "Express.js", "Laravel", "REST APIs", "PHP"]}
             />
 
             <SkillCard
@@ -141,7 +141,7 @@ function Home() {
           <div className="featured-projects-grid">
             <ProjectCard
               badge="Work Project"
-              subtitle="Acelucid Technologies"
+              subtitle="company project"
               title="Educational Learning Platform"
               description="A web-based learning and assessment platform with classroom modules, interactive quizzes, and student dashboards. Developed the Angular frontend interfaces and connected them with backend FastAPI endpoints."
               technologies={["Angular", "TypeScript", "Python/FastAPI", "AWS S3"]}
@@ -150,7 +150,7 @@ function Home() {
 
             <ProjectCard
               badge="Work Project"
-              subtitle="Acelucid Technologies"
+              subtitle="company project"
               title="Travel Management Platform"
               description="A web platform for travel companies to manage itineraries, customer bookings, packages, and tour guides. Built the booking workflows and admin management screens."
               technologies={["Angular", "Node.js", "Express.js", "MySQL"]}

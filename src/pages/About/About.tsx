@@ -51,8 +51,8 @@ function About() {
             <div className="about-contact-cards">
               <div className="contact-mini-card">
                 <span className="mini-card-label">Email</span>
-                <a href="mailto:nikitapanwar11@gmail.com" className="mini-card-value">
-                  nikitapanwar11@gmail.com
+                <a href="mailto:nikitapanwar.work@gmail.com" className="mini-card-value">
+                  nikitapanwar.work@gmail.com
                 </a>
               </div>
 

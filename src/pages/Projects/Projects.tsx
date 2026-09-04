@@ -19,7 +19,7 @@ const projectsList: ProjectItem[] = [
     id: "edtech-platform",
     title: "Educational Learning Platform",
     badge: "Work Project",
-    subtitle: "Acelucid Technologies",
+    subtitle: "Company Project",
     description:
       "A web-based learning and assessment platform with classroom modules, interactive quizzes, and student dashboards. I developed the Angular frontend interfaces and connected them with backend FastAPI endpoints.",
     technologies: ["Angular", "TypeScript", "Python/FastAPI", "AWS S3", "CloudFront"],
@@ -39,7 +39,7 @@ const projectsList: ProjectItem[] = [
     id: "rbac-auth",
     title: "Role-Based Auth & Access Control",
     badge: "Work Project",
-    subtitle: "Acelucid Technologies",
+    subtitle: "Company Project",
     description:
       "An authentication and authorization setup with login, JWT token refresh, and Angular route guards that restrict access based on user roles (Admin, Instructor, Student).",
     technologies: ["Angular", "TypeScript", "JWT", "REST APIs"],
@@ -54,7 +54,7 @@ const projectsList: ProjectItem[] = [
       "A full-stack travel web application created as my college capstone project. Helps users browse destinations, explore trip packages, and plan itineraries.",
     technologies: ["Angular", "Node.js", "Express.js", "MySQL"],
     category: "personal",
-    externalLink: "https://github.com/nikitapanwar11",
+    externalLink: "https://github.com/NikkiPanwar/Travel-buddies-main",
   },
   {
     id: "portfolio-website",
@@ -65,7 +65,7 @@ const projectsList: ProjectItem[] = [
       "A clean, responsive portfolio website built with React and TypeScript to showcase my projects, work experience, and skills.",
     technologies: ["React", "TypeScript", "Vite", "CSS3"],
     category: "personal",
-    externalLink: "https://github.com/nikitapanwar11",
+    externalLink: "https://github.com/NikkiPanwar/portfoli-np",
   },
 ];
 
