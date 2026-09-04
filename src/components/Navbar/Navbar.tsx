@@ -5,7 +5,6 @@ import "./Navbar.css";
 function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const location = useLocation();
-  const isHome = location.pathname === "/";
 
   // Close mobile menu on page change
   useEffect(() => {
