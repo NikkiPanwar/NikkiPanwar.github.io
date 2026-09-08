@@ -257,7 +257,7 @@ function Home() {
 
               <div className="portal-avatar-frame">
                 <img
-                  src={getAssetUrl("nikita-portrait.jpg")}
+                  src={getAssetUrl("nikita-portrait.jpg?v=2")}
                   alt="Nikita Panwar - Full-Stack Developer"
                   className="portal-avatar-img"
                 />
