@@ -69,8 +69,8 @@ const PROJECTS = [
       "A custom hotel booking and property management web platform built for Sheet Hotel, featuring real-time room availability, suite previews, guest reservations, and Razorpay payment integration.",
     tags: ["Angular", "TypeScript", "Node.js", "Express.js", "Razorpay", "MySQL"],
     image: getAssetUrl("project-hotel.jpg"),
-    demoUrl: "https://github.com/NikkiPanwar",
-    codeUrl: "https://github.com/NikkiPanwar",
+    demoUrl: "https://nikkipanwar.github.io/sheetal-resort/",
+    codeUrl: "https://github.com/NikkiPanwar/sheetal-resort",
   },
   {
     id: "travel-buddies",
