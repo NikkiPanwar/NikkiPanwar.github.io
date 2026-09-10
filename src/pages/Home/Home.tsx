@@ -81,8 +81,8 @@ const PROJECTS = [
       "A rural-tourism community platform supporting destination management, curated travel packages, user experience sharing, authentication, and role-based access.",
     tags: ["Angular", "Laravel", "MySQL", "Responsive UI"],
     image: getAssetUrl("project-travel.jpg"),
-    demoUrl: "https://github.com/NikkiPanwar",
-    codeUrl: "https://github.com/NikkiPanwar",
+    demoUrl: "https://nikkipanwar.github.io/Travel_Buddies/",
+    codeUrl: "https://github.com/NikkiPanwar/Travel_Buddies",
   },
 ];
 
